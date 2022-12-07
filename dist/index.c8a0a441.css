@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #11B6F0;
+  background-color: #B16FEB;
 }
 
 main {
@@ -13,7 +13,7 @@ main h1.title {
   white-space: nowrap;
   font-size: 3em;
   font-family: "Suez One", serif;
-  color: #f04b11;
+  color: #a9eb6f;
 }
 
 @media screen and (min-width: 720px) {
